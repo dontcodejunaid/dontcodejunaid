@@ -1,22 +1,22 @@
 {
   "username": "dontcodejunaid",
-  "generated_at": "2026-10-29T13:08:52Z",
+  "generated_at": "2026-10-30T13:01:35Z",
   "range": {
     "start": "2025-10-26",
+    "end": "2026-10-30"
+  },
+  "total_contributions": 896,
+  "active_days": 83,
+  "avg_per_active_day": 10.8,
+  "current_streak": {
+    "length": 25,
+    "start": "2026-10-05",
     "end": "2026-10-29"
   },
-  "total_contributions": 895,
-  "active_days": 82,
-  "avg_per_active_day": 10.9,
-  "current_streak": {
-    "length": 24,
-    "start": "2026-10-05",
-    "end": "2026-10-28"
-  },
   "longest_streak": {
-    "length": 24,
+    "length": 25,
     "start": "2026-10-05",
-    "end": "2026-10-28"
+    "end": "2026-10-29"
   },
   "best_day": {
     "date": "2026-09-11",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 61
+      "total": 62
     }
   ],
   "days": [
@@ -1919,6 +1919,11 @@
     },
     {
       "date": "2026-10-29",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-30",
       "count": 0,
       "level": 0
     }
